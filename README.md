@@ -16,6 +16,6 @@ This is deployed on the cloudflare workers.
 #### get all blog posts
 
 ```sh
-https://production.dev-diaries.viveksinghcharak004.workers.dev/api/v1/post
+https://dev-diaries.liveproject.workers.dev/api/v1/post
 
 ```
